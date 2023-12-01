@@ -38,6 +38,7 @@ This repository showcases my skills in SQL, Tableau, and Python, acquired throug
 - Age vs Probability analysis.
 - Reasons vs Probability analysis.
 - Transportation Expense vs Probability analysis.
+- Viz Link (https://public.tableau.com/app/profile/junayed.parves/viz/VisulaizationMLModelData/Dashboard1)
 
 
 ## Dependencies
